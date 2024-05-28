@@ -1,5 +1,4 @@
-# My template documents for recurring tasks
+# My template documents for recurring tasks or configurations
 
-## Data Science
-
-- general usage [jupyter notebook](./data-sci.ipynb) with recurring imports for data manipulation and plotting that prints package versions and machine details
+- [Data Science](./data-sci/README.md) (directory `./data-sci/`)
+- [Linux Congfigs](./linux-configs/README.md) (directory `./linux-configs/`)
